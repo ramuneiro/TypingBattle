@@ -1,0 +1,13 @@
+File: Assets\Resources\Lang\ja.txt
+````````plaintext
+Lang=日本語
+StartButton=スタート
+Keyword=キーワード
+OptionsButton=設定
+ExitButton=終了
+GotitleButton=タイトルへ戻る
+RestartButton=リスタート
+Easy=イージー
+Normal=ノーマル
+Hard=ハード
+

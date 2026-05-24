@@ -1,0 +1,12 @@
+File: Assets\Resources\Lang\en.txt
+````````plaintext
+Lang=English
+StartButton=Start
+Keyword=Keyword
+OptionsButton=Option
+ExitButton=Exit
+GotitleButton=BackToTitle
+RestartButton=Restart
+Easy=Easy
+Normal=Normal
+Hard=Hard
